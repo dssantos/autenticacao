@@ -1,0 +1,3 @@
+.autenticacao/
+.env
+db.sqlite3
